@@ -55,8 +55,8 @@ var number2 = 40;*/
 
 // var und;
 
-// console.log(und);
 
+// console.log(und);
 // var n = null;
 
 // console.log(n);
@@ -99,3 +99,88 @@ At a very high level, there are two types of data types in Java script
 
 // console.log(x >= y);
 // console.log(y >= x);
+
+// functions in Javascript
+// DRY = do not repeat yourself
+
+// function avg(a, b) {
+//   return (a + b) / 2;
+//   return c;
+// }
+// c1 = avg(4, 6);
+// c2 = avg(4, 16);
+
+// console.log(c1, c2);
+
+// conditionals in Javascript
+
+// var age = 4;
+
+// if (age > 5) {
+//   console.log("your not a kid");
+// } else {
+//   console.log("your  a kid");
+// }
+
+// single if statement
+
+// if else ladder
+// var age = 35;
+// if (age > 35) {
+// 	console.log("your kid");
+// } else if (age > 5) {
+// 	console.log("your not a kid");
+// } else if (age > 25) {
+// 	console.log("your  a kid");
+// }
+
+// var age = 35;
+// if (age > 35) {
+// 	console.log("you can drink rasna");
+// } else if (age > 5) {
+// 	console.log("you can drink rasna");
+// } else if (age > 25) {
+// 	console.log("you can drink rasna");
+// }
+
+// console.log("subbu");
+
+// var arr = [1, 2, 3, 4, 5, 6, 7];
+// console.log(arr);
+// for (var i = 0; i < arr.length; i++) {
+// 	console.log(arr[i]);
+// }
+
+// arr.forEach(function (element) {
+// 	console.log(element);
+// });
+
+// let j=0;
+// const ac =0;
+// ac++;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
